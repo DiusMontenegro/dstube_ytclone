@@ -16,6 +16,9 @@ DSTube is a YouTube clone that allows users to watch, upload, and share videos. 
 
  Contributions are welcome! Please feel free to submit pull requests or open issues if you find any bugs or have any suggestions for improvements.
  
+ If you have any questions, feel free to email me:
+ montenegrodiussantos1@gmail.com
+ 
 Enjoy!!!
 
 ~Dius(Dre)
